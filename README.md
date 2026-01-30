@@ -14,12 +14,12 @@ I enjoy transforming raw data into meaningful insights and building dashboards t
 
 ## 📊 Projects
 - Indian Startup Funding Analysis (SQL + Python + Power BI)
-- Sales Dashboard Analysis
+- E-commerce Dashboard Analysis
 - Netflix SQL Data Analysis
 - Customer Purchase Behavior Analysis
 - HR Employee Attrition Analysis
 - Inventory Analysis
-- Transation and Funding Analysis
+- Superstore Analysis
 
 ## 🚀 What I Do
 ✔ Clean messy data  
