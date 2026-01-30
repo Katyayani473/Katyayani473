@@ -17,6 +17,9 @@ I enjoy transforming raw data into meaningful insights and building dashboards t
 - Sales Dashboard Analysis
 - Netflix SQL Data Analysis
 - Customer Purchase Behavior Analysis
+- HR Employee Attrition Analysis
+- Inventory Analysis
+- 
 
 ## 🚀 What I Do
 ✔ Clean messy data  
@@ -25,7 +28,7 @@ I enjoy transforming raw data into meaningful insights and building dashboards t
 ✔ Generate business insights  
 
 ## 📫 Open to
-Data Analyst | Business Analyst | Entry-Level Analytics Roles## Hi there 👋
+Data Analyst | Business Analyst | Entry-Level Analytical Roles
 
 <!--
 **Katyayani473/Katyayani473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
