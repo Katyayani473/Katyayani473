@@ -19,7 +19,7 @@ I enjoy transforming raw data into meaningful insights and building dashboards t
 - Customer Purchase Behavior Analysis
 - HR Employee Attrition Analysis
 - Inventory Analysis
-- 
+- Transation and Funding Analysis
 
 ## 🚀 What I Do
 ✔ Clean messy data  
